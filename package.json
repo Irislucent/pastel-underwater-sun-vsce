@@ -1,0 +1,21 @@
+{
+  "name": "pastel-underwater-sun",
+  "displayName": "Pastel-Underwater-Sun",
+  "description": "A tranquil and soft Morandi-style color theme that infuses light and colors into the coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pastel Underwater Sun",
+        "uiTheme": "vs",
+        "path": "./themes/Pastel Underwater Sun-color-theme.json"
+      }
+    ]
+  }
+}
