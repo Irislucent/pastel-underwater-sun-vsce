@@ -1,8 +1,9 @@
 {
   "name": "pastel-underwater-sun",
-  "displayName": "Pastel-Underwater-Sun",
-  "description": "A tranquil and soft Morandi-style color theme that infuses light and colors into the coding experience.",
-  "version": "0.0.1",
+  "displayName": "Pastel Underwater Sun",
+  "description": "A tranquil and low-contrast Morandi-style color theme that infuses soft light and colors into the coding experience.",
+  "icon": "icon.png",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -17,5 +18,11 @@
         "path": "./themes/Pastel Underwater Sun-color-theme.json"
       }
     ]
+  },
+  "publisher": "YuxuanWu",
+  "publisherDisplayName": "Irislucent",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Irislucent/pastel-underwater-sun-vsce.git"
   }
 }
