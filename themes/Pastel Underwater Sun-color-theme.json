@@ -866,9 +866,9 @@
                         "foreground": "#886A44",
                         "fontStyle": "italic"
                 },
-				"module": {
-						"foreground": "#885544e0",
-				},
+                "module": {
+                                "foreground": "#885544e0",
+                },
                 "label": {
                         "forground": "#886A44",
                 },
