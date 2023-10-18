@@ -27,7 +27,7 @@
                 "activityBar.activeBackground": "#eeddec",
                 "activityBarBadge.foreground": "#F7F5F2",
                 "activityBarBadge.background": "#7686A9",
-                "activityBar.border": "#F5F0EC",	
+                "activityBar.border": "#F5F0EC",
                 "sideBar.background": "#F5F0EC",
                 "sideBar.foreground": "#605A52",
                 "sideBarSectionHeader.background": "#F5F0EC",
@@ -373,7 +373,7 @@
                         ],
                         "settings": {
                                 "foreground": "#de6f6fe0",
-								"fontStyle": "bold"
+                                "fontStyle": "bold"
                         }
                 },
                 {
@@ -383,7 +383,7 @@
                                 "support.type"
                         ],
                         "settings": {
-								"foreground": "#b157a3e0"
+                                "foreground": "#b157a3e0"
                         }
                 },
                 {
@@ -521,7 +521,7 @@
                         "scope": "entity.name.tag",
                         "settings": {
                                 "foreground": "#83577De0",
-								// "fontStyle": ""
+                                // "fontStyle": ""
                         }
                 },
                 {
@@ -544,268 +544,6 @@
                                 "foreground": "#5aa19ce0"
                         }
                 },
-                // {
-                //         "name": "CSS: Selectors",
-                //         "scope": [
-                //                 "meta.selector",
-                //                 "meta.selector entity",
-                //                 "meta.selector entity punctuation",
-                //                 "entity.name.tag.css"
-                //         ],
-                //         "settings": {
-                //                 "foreground": "#83577D"
-                //         }
-                // },
-                // {
-                //         "name": "CSS: Property Names",
-                //         "scope": [
-                //                 "meta.property-name",
-                //                 "support.type.property-name"
-                //         ],
-                //         "settings": {
-                //                 "fontStyle": "italic",
-                //                 "foreground": "#556995"
-                //         }
-                // },
-                // {
-                //         "name": "CSS: Property Values",
-                //         "scope": [
-                //                 "meta.property-value",
-                //                 "meta.property-value constant.other",
-                //                 "support.constant.property-value"
-                //         ],
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "CSS: Important Keyword",
-                //         "scope": "keyword.other.important",
-                //         "settings": {
-                //                 "foreground": "#886A44"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Changed",
-                //         "scope": "markup.changed",
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Deletion",
-                //         "scope": "markup.deleted",
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Emphasis",
-                //         "scope": "markup.italic",
-                //         "settings": {
-                //                 "fontStyle": "italic"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Error",
-                //         "scope": "markup.error",
-                //         "settings": {
-                //                 "foreground": "#8F5652"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Insertion",
-                //         "scope": "markup.inserted",
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Link",
-                //         "scope": "meta.link",
-                //         "settings": {
-                //                 "foreground": "#556995"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Output",
-                //         "scope": [
-                //                 "markup.output",
-                //                 "markup.raw"
-                //         ],
-                //         "settings": {
-                //                 "foreground": "#886A44"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Code",
-                //         "scope": [
-                //                 "markup.fenced_code.block",
-                //         ],
-                //         "settings": {
-                //                 "foreground": "#886A44"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Prompt",
-                //         "scope": "markup.prompt",
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Heading",
-                //         "scope": "markup.heading",
-                //         "settings": {
-                //                 "foreground": "#83577D"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Strong",
-                //         "scope": "markup.bold",
-                //         "settings": {
-                //                 "fontStyle": "bold"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Traceback",
-                //         "scope": "markup.traceback",
-                //         "settings": {
-                //                 "foreground": "#8F5652"
-                //         }
-                // },
-                // {
-                //         "name": "Markup: Underline",
-                //         "scope": "markup.underline",
-                //         "settings": {
-                //                 "fontStyle": "underline"
-                //         }
-                // },
-                // {
-                //         "name": "Markup Quote",
-                //         "scope": "markup.quote",
-                //         "settings": {
-                //                 "fontStyle": "italic",
-                //                 "foreground": "#886A44"
-                //         }
-                // },
-                // {
-                //         "name": "Markup Lists",
-                //         "scope": "markup.list",
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Markup Styling",
-                //         "scope": [
-                //                 "markup.bold",
-                //                 "markup.italic"
-                //         ],
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Markup Inline",
-                //         "scope": "markup.inline.raw",
-                //         "settings": {
-                //                 "fontStyle": "",
-                //                 "foreground": "#886A44"
-                //         }
-                // },
-                // {
-                //         "name": "Extra: Diff Range",
-                //         "scope": [
-                //                 "meta.diff.range",
-                //                 "meta.diff.index",
-                //                 "meta.separator"
-                //         ],
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Extra: Diff From",
-                //         "scope": "meta.diff.header.from-file",
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Extra: Diff To",
-                //         "scope": "meta.diff.header.to-file",
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "JS new keyword",
-                //         "scope": "keyword.operator.new.js",
-                //         "settings": {
-                //                 "foreground": "#83577D"
-                //         }
-                // },
-                // {
-                //         "name": "JS variable object",
-                //         "scope": "variable.other.object.js",
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "JS variable (object) property",
-                //         "scope": [
-                //                 "variable.other.object.property.js",
-                //                 "variable.other.property.js"
-                //         ],
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Markdown: link title",
-                //         "scope": "string.other.link.title",
-                //         "settings": {
-                //                 "foreground": "#5aa19ce0"
-                //         }
-                // },
-                // {
-                //         "name": "Clojure: keyword",
-                //         "scope": ["constant.keyword.clojure"],
-                //         "settings": {
-                //                 "foreground": "#556995"
-                //         }
-                // },
-                // {
-                //         "name": "Java: import",
-                //         "scope": ["storage.modifier.import.java"],
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // },
-                // {
-                //         "name": "Java: type",
-                //         "scope": ["storage.type.java"],
-                //         "settings": {
-                //                 "foreground": "#605A52",
-                //                 "fontStyle": "italic"
-                //         }
-                // },
-                // {
-                //         "name": "Java: this",
-                //         "scope": ["variable.language.this.java"],
-                //         "settings": {
-                //                 "foreground": "#83577D"
-                //         }
-                // },
-                // {
-                //         "name": "Java: property access",
-                //         "scope": ["variable.other.object.property.java"],
-                //         "settings": {
-                //                 "foreground": "#605A52"
-                //         }
-                // }
         ],
         "semanticTokenColors": {
                 "namespace": {
@@ -842,7 +580,7 @@
                         "forground": "#556977",
                 },
                 "variable.defaultLibrary": {
-                    	"foreground": "#605A52",
+                        "foreground": "#605A52",
                 },
                 "property": {
                         "forground": "#605A52",
@@ -867,7 +605,7 @@
                         "fontStyle": "italic"
                 },
                 "module": {
-                                "foreground": "#885544e0",
+                        "foreground": "#885544e0",
                 },
                 "label": {
                         "forground": "#886A44",
