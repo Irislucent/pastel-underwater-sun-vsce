@@ -1,9 +1,13 @@
 # Change Log
 
-All notable changes to the "pastel-underwater-sun" extension will be documented in this file.
+## 1.0.3
+- Start change log
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## 1.0.2
+- Change terminal selection color and debugging statusbar color
 
-## [Unreleased]
+## 1.0.1
+- Add extension icon
 
+## 1.0.0
 - Initial release
