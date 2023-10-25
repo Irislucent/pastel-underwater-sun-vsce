@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.8
+- Add contrast to Python modules (again)
+
 ## 1.0.7
 - Add contrast to Python modules
 
