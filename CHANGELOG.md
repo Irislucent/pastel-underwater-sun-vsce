@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.7
+- Add contrast to Python modules
+
 ## 1.0.6
 - Add contrast to basic foreground black color
 
