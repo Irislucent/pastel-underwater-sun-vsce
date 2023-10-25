@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.0.5
+- Add contrast to search highlight
+
+## 1.0.4
+- More VSCode version support
+
 ## 1.0.3
 - Start change log
 
