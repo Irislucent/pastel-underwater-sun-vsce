@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.6
+- Add contrast to basic foreground black color
+
 ## 1.0.5
 - Add contrast to search highlight
 
