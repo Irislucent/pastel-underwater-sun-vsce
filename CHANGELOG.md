@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.0.9
+- Slightly improve contrast of terminal colors
+
 ## 1.0.8
 - Add contrast to Python modules (again)
 
