@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.1.0
+- Improve color schemes for some semantic tokens to avoid confounds
+- Special color for Python classes
+
 ## 1.0.9
 - Slightly improve contrast of terminal colors
 
