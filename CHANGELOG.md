@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.1.1
+- Change an ugly color setting
+
 ## 1.1.0
 - Improve color schemes for some semantic tokens to avoid confounds
 - Special color for Python classes

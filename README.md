@@ -10,7 +10,7 @@ Let light back into our eyes, to see the world in the daytime when there are col
 
 <!-- Inspired by [Soft Era](https://github.com/soft-aesthetic/soft-era-vs-code), [Earl Grey](https://github.com/earl-grey-theme/earl-grey-vsc) and [Fluffy Theme](https://github.com/ayako02/fluffy-theme). -->
 
-![demo](pus_demo_new.png)
+![demo](pus_demo.png)
 
 
 
