@@ -139,7 +139,7 @@
                 "editorIndentGuide.activeBackground": "#DDDBD8",
                 "editorRuler.foreground": "#DDDBD8",
                 "editor.linkedEditingBackground": "#F5F0EC",
-                "editorBracketMatch.background": "#F5F0EC",
+                "editorBracketMatch.background": "#daf3a0e0",
                 "editorBracketMatch.border": "#DDDBD8",
                 "editorBracketHighlight.foreground1": "#ab5bb8e0",
                 "editorBracketHighlight.foreground2": "#cd8238e0",

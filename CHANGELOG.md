@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.1.2
+- Change an unclear bracket matching color setting
+
 ## 1.1.1
 - Change an ugly color setting
 
