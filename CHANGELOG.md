@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.1.3
+- Add background color for the cursor line to avoid misoperation
+
 ## 1.1.2
 - Change an unclear bracket matching color setting
 

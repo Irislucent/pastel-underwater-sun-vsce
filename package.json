@@ -3,7 +3,7 @@
   "displayName": "Pastel Underwater Sun",
   "description": "A tranquil and low-contrast Morandi-style color theme that infuses soft light and colors into the coding experience.",
   "icon": "icon.png",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "engines": {
     "vscode": "^1.70.0"
   },
